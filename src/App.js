@@ -566,15 +566,15 @@ const LandingPage = () => {
 
           <div className="social-links">
 
-            <a href="#" aria-label="Facebook">
+            <a href="https://facebook.com" aria-label="Facebook">
               <FaFacebookF />
             </a>
 
-            <a href="#" aria-label="Instagram">
+            <a href="https://instagram.com" aria-label="Instagram">
               <FaInstagram />
             </a>
 
-            <a href="#" aria-label="X">
+            <a href="https://x.com" aria-label="X">
               <FaXTwitter />
             </a>
 
