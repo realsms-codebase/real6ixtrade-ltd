@@ -13,14 +13,11 @@ import {
   FiUsers,
   FiZap,
   FiCheck,
-  FiGlobe,
-  FiPackage,
 } from "react-icons/fi";
 import {
   FaFacebookF,
   FaInstagram,
   FaXTwitter,
-  FaLinkedinIn,
 } from "react-icons/fa6";
 
 import "./App.css";
@@ -547,7 +544,7 @@ const LandingPage = () => {
             <div className="footer-contact-item">
               <span>Address</span>
               <p>
-                Lagos, Nigeria
+                BARTHOLOMEW MEZIE'S COMPOUND EZIAGU VILLAGE OGBOJI CLOSE TO ROYAL HOTEL EZIAGU 04
               </p>
             </div>
 
