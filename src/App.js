@@ -550,8 +550,8 @@ const LandingPage = () => {
 
             <div className="footer-contact-item">
               <span>Email</span>
-              <a href="mailto:info@real6ixtrade.com">
-                info@real6ixtrade.com
+              <a href="mailto:maziekene65@gmail.com">
+                maziekene65@gmail.com
               </a>
             </div>
 
