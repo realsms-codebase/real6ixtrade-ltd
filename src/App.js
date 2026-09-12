@@ -501,7 +501,7 @@ const LandingPage = () => {
 
             </div>
 
-            <a href="mailto:info@real6ixtrade.com" className="cta-button">
+            <a href="mailto:maziekene65@gmail.com" className="cta-button">
               Contact Us
               <FiArrowRight />
             </a>
